@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge.Commons.System.Elasticsearch", "Bridge.Commons.System.Elasticsearch\Bridge.Commons.System.Elasticsearch.csproj", "{1FA92248-7CA4-47A1-8E60-FBE1AE474705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA92248-7CA4-47A1-8E60-FBE1AE474705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA92248-7CA4-47A1-8E60-FBE1AE474705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA92248-7CA4-47A1-8E60-FBE1AE474705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA92248-7CA4-47A1-8E60-FBE1AE474705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892A77CC-1CB9-48BC-9907-65DCFC372D73}
+	EndGlobalSection
+EndGlobal

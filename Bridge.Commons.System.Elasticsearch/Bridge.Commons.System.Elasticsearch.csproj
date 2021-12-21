@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <PackageId>Bridge.Commons.System.Elasticsearch</PackageId>
+        <Title>Bridge.Commons.System.Elasticsearch</Title>
+        <Version>1.0.0</Version>
+        <Authors>Robson Leao</Authors>
+        <Company>Bridge Core</Company>
+        <Description>
+            Elasticsearch connection and management package.
+        </Description>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <PackageReleaseNotes>First Version</PackageReleaseNotes>
+        <PackageTags>bridge-core commons elasticsearch nest</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Bridge.Commons.System" Version="1.0.0"/>
+        <PackageReference Include="Microsoft.CSharp" Version="4.7.0"/>
+        <PackageReference Include="NEST" Version="7.15.1"/>
+    </ItemGroup>
+
+</Project>
